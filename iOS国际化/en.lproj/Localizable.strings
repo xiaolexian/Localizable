@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  iOS国际化
+
+  Created by liudeng on 16/2/19.
+  Copyright © 2016年 liudeng. All rights reserved.
+*/
+"name" = "i am a button!";
